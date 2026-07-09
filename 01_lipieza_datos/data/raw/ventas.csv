@@ -1,0 +1,188 @@
+id_venta,fecha,producto,categoria,precio_unitario,cantidad,cliente_email,metodo_pago,en_oferta,calificacion
+81,01/05/2023,Teclado Mecanico,Electronica ,Q151.27,1,cliente81@gmail.com,EFECTIVO,No,-1
+5,06-27-2023,Licuadora,HOGAR,$40.24,uno,cliente5uvg.edu.gt,TARJETA,true,
+112,21/09/2023,Set de Sartenes,HOGAR,-45.73,tres, cliente112@uvg.edu.gt ,TARJETA,,1
+109,01-14-2024,Chumpa Impermeable,ropa,29.65,tres,NA,EFECTIVO,SI,1
+75,?,Teclado Mecanico,Electronica,164.77,3,NULL,cash,0,4
+156,2023-04-24,Set de Sartenes,HOGAR,-46.58,-4,cliente156gmail.com,Transferencia,1,3
+58,2024-11-01,Balon de Futbol,Deportes,66.76,tres, cliente58@uvg.edu.gt ,Transferencia,si,-1
+172,2023-06-21,Licuadora,hogar,-40.29,4.0,cliente172@gmail.com,Efectivo,TRUE,4
+64,"Mar 28, 2024",Bicicleta Montaña,deportes,-63.31,-4,cliente64hotmail.com,efectivo,false,3
+168,2023-03-14,Laptop HP 15,electronica,-145.23,4.0, cliente168@gmail.com ,Transferencia,Si,1
+139,19/12/2023,Camisa Polo,Ropa,31.03,-2,cliente139uvg.edu.gt,transferencia,TRUE,1
+160,2024-07-22,Teclado Mecanico,ELECTRONICA,168.54,5.0, cliente160@uvg.edu.gt ,transferencia,SI,
+132,"Mar 25, 2024",Chumpa Impermeable, Ropa,41.98,1, cliente132@hotmail.com ,efectivo,No,4
+154,2023-06-14,Mouse Logitech,Electronica,169.65,1.0,?,TARJETA,,1
+157,2023-12-07,Teclado Mecanico, Electronica,160.37,dos,cliente157@gmail.com,cash,Si,5
+136,02/01/2023,Cafetera,HOGAR,-55.10,cuatro,cliente136uvg.edu.gt,EFECTIVO,false,7
+95,12-13-2024,Cafetera,Hogar,$45.13,-2,NA,transferencia,si,-1
+20,17/06/2024,Balon de Futbol, DEPORTES,Q72.90,-3,n/a,EFECTIVO,si,-1
+118,06-03-2024,Chumpa Impermeable, Ropa,35.07,-2, cliente118@hotmail.com ,tarjeta,1,2
+179,24/09/2023,Cafetera,Hogar ,$39.24,3.0,cliente179hotmail.com,Tarjeta,SI,2
+17,"Aug 16, 2023",Teclado Mecanico,Electronica,149.12,4.0,?,credit card,,4
+3,2023-06-07,Pantalon Jeans, Ropa,$22.42,5.0, cliente3@gmail.com ,credit card,si,3
+173,2024-03-02,Balon de Futbol,Deportes,69.68,1.0,N/A,cash,0,
+67,2024-12-20,Pantalon Jeans,ROPA ,-41.31,4.0, cliente67@uvg.edu.gt ,credit card,Si,5
+161,06/09/2024,Pantalon Jeans,ropa,Q27.52,4, cliente161@uvg.edu.gt ,transferencia,TRUE,4
+35,"Apr 18, 2023",Licuadora,hogar,-55.04,5.0, cliente35@hotmail.com ,credit card,true,1
+49,02-08-2023,Pantalon Jeans,Ropa,Q38.57,dos, cliente49@uvg.edu.gt ,Efectivo,false,5
+38,"Oct 13, 2023",Camisa Polo, Ropa,$20.15,-3,cliente38hotmail.com,Transferencia,No,4
+10,03-17-2023,Laptop HP 15,Electronica ,Q160.22,tres,cliente10@uvg.edu.gt,cash,1,5
+56,2023-03-09,Bicicleta Montaña,Deportes,-74.82,5.0,cliente56@hotmail.com,Transferencia,no,3
+130,15/04/2024,Cafetera,HOGAR,$56.54,-3,NA,EFECTIVO,No,3
+70,08/08/2023,Balon de Futbol,deportes,70.95,3,N/A,Tarjeta,true,
+3,2023-06-07,Pantalon Jeans, Ropa,$22.42,5.0, cliente3@gmail.com ,credit card,si,3
+62,2024-02-27,Mouse Logitech,electronica,$157.46,5.0, cliente62@hotmail.com ,Transferencia,No,4
+98,10-25-2024,Licuadora,HOGAR,38.77,-4,NULL,cash,Si,3
+2,08/09/2023,Mouse Logitech,Electronica ,155.49,5.0,-,transferencia,1,4
+165,05-12-2024,Set de Sartenes,Hogar ,46.65,tres,?,tarjeta,false,
+147,09-28-2024,Licuadora,hogar,$55.22,-2,N/A,tarjeta,1,3
+83,2023-09-15,Balon de Futbol, DEPORTES,-74.58,-3,cliente83@uvg.edu.gt,tarjeta,true,2
+144,02/11/2023,Camisa Polo,Ropa,$22.50,4,cliente144uvg.edu.gt,tarjeta,TRUE,4
+28,05-11-2023,Camisa Polo,ROPA ,-,5.0,cliente28@gmail.com,Efectivo,SI,4
+44,2024-11-14,Chumpa Impermeable,ROPA ,20.32,4,n/a,TARJETA,0,7
+92,2023-05-14,Balon de Futbol,deportes,$65.75,-5,,efectivo,0,3
+121,"Mar 19, 2024",Licuadora,HOGAR,Q51.24,1,cliente121uvg.edu.gt,Transferencia,TRUE,2
+52,03/10/2023,Cafetera,hogar,$55.28,uno, cliente52@gmail.com ,cash,false,3
+108,09-23-2023,Set de Sartenes,Hogar,$54.08,cuatro,cliente108@hotmail.com,efectivo,true,2
+33,2024-10-21,Set de Sartenes,hogar,Q51.82,dos,cliente33@gmail.com,efectivo,true,
+120,02-05-2023,Licuadora,HOGAR,-44.57,uno, cliente120@uvg.edu.gt ,EFECTIVO,1,1
+155,"Jul 12, 2024",Bicicleta Montaña,deportes,-57.01,2.0,cliente155gmail.com,credit card,0,4
+13,2023-04-04,Set de Sartenes,HOGAR,-35.53,dos,cliente13@gmail.com,tarjeta,No,3
+61,"Mar 18, 2024",Camisa Polo, Ropa,-23.04,dos,cliente61@hotmail.com,credit card,0,5
+73,07/10/2024,Camisa Polo,Ropa,42.59,-3,N/A,Tarjeta,no,
+158,22/12/2023,Licuadora,Hogar,Q45.06,cinco,cliente158gmail.com,credit card,no,-1
+65,07-28-2023,Cafetera,Hogar ,?,cuatro,cliente65@hotmail.com,TARJETA,TRUE,4
+4,18/05/2024,Cafetera,Hogar,Q36.15,3,cliente4@gmail.com,transferencia,no,2
+78,24/12/2024,Chumpa Impermeable, Ropa,36.37,-5,cliente78@hotmail.com,EFECTIVO,No,
+29,02-02-2024,Balon de Futbol, DEPORTES,74.66,5,cliente29hotmail.com,Efectivo,Si,5
+71,11-10-2024,Chumpa Impermeable, Ropa,Q41.13,-4,cliente71gmail.com,transferencia,false,-1
+21,2023-10-20,Laptop HP 15,Electronica ,$150.33,2.0,cliente21gmail.com,EFECTIVO,no,3
+67,2024-12-20,Pantalon Jeans,ROPA ,-41.31,4.0, cliente67@uvg.edu.gt ,credit card,Si,5
+111,05-04-2023,Set de Sartenes,Hogar,36.19,-5,cliente111@gmail.com,Transferencia,false,4
+114,11-24-2023,Chumpa Impermeable,ropa,-21.11,tres, cliente114@uvg.edu.gt ,Transferencia,,4
+32,"Oct 26, 2024",Camisa Polo, Ropa,Q31.05,-5,cliente32uvg.edu.gt,Tarjeta,no,4
+167,06/12/2024,Licuadora,hogar,53.01,2,cliente167@uvg.edu.gt,N/A,,3
+146,27/07/2024,Teclado Mecanico,ELECTRONICA,166.92,3,n/a,credit card,TRUE,1
+128,03-19-2023,Teclado Mecanico,Electronica ,146.03,1,null,cash,0,-1
+84,"Feb 22, 2024",Cafetera,Hogar,$57.48,cinco,NULL,Efectivo,false,4
+126,12/03/2023,Bicicleta Montaña,deportes,67.57,uno,cliente126hotmail.com,TARJETA,1,7
+72,2024-12-10,Chumpa Impermeable, Ropa,-26.86,-1,cliente72hotmail.com,cash,1,-1
+100,10-15-2023,Set de Sartenes,Hogar ,47.53,4,cliente100@hotmail.com,credit card,,1
+54,07/05/2023,Camisa Polo,ropa,24.35,2, cliente54@hotmail.com ,cash,true,
+137,10-13-2024,Chumpa Impermeable, Ropa,$37.72,4,NA,?,false,3
+66,2024-02-28,Balon de Futbol, DEPORTES,77.76,-2,cliente66uvg.edu.gt,Tarjeta,true,5
+19,03/10/2023,Mouse Logitech, Electronica,-148.00,2,cliente19@uvg.edu.gt,transferencia,,3
+142,09-12-2024,Chumpa Impermeable,Ropa,-34.34,-4,cliente142hotmail.com,Efectivo,Si,3
+138,10-01-2024,Pantalon Jeans,ropa,-38.04,cuatro, cliente138@uvg.edu.gt ,TARJETA,,
+93,01/04/2024,Balon de Futbol,Deportes,$74.10,3, cliente93@gmail.com ,transferencia,SI,1
+40,2023-08-28,Cafetera,HOGAR,Q44.48,4.0, cliente40@hotmail.com ,Efectivo,0,3
+31,06-14-2024,Pantalon Jeans,ropa,24.80,2.0,cliente31@hotmail.com,Efectivo,no,
+16,15/03/2024,Camisa Polo,ROPA ,31.57,4,cliente16@gmail.com,Tarjeta,No,7
+99,"May 3, 2024",Chumpa Impermeable,Ropa,$21.42,1, cliente99@uvg.edu.gt ,Transferencia,false,7
+176,07-22-2023,Bicicleta Montaña,Deportes,72.83,tres,cliente176hotmail.com,transferencia,1,-1
+11,04/06/2024,Licuadora,Hogar,-41.02,1, cliente11@uvg.edu.gt ,Tarjeta,TRUE,1
+94,12-18-2023,Teclado Mecanico,Electronica,154.93,4,cliente94@hotmail.com,EFECTIVO,false,4
+180,2024-05-14,Cafetera,HOGAR,Q41.29,cuatro,cliente180@hotmail.com,NA,no,5
+26,20/12/2023,Set de Sartenes,hogar,Q59.41,4,?,efectivo,no,4
+87,"Feb 3, 2023",Licuadora,Hogar,$53.61,2,NA,transferencia,1,2
+23,20/04/2024,Pantalon Jeans,ROPA ,$32.64,1, cliente23@uvg.edu.gt ,Efectivo,Si,5
+163,2023-10-20,Cafetera,hogar,-55.12,null,cliente163hotmail.com,EFECTIVO,no,
+106,"Dec 22, 2023",Cafetera,HOGAR,53.81,dos, cliente106@hotmail.com ,efectivo,1,5
+46,10-19-2024,Camisa Polo,Ropa,$32.36,-2,NULL,EFECTIVO,no,3
+141,"Nov 12, 2024",Chumpa Impermeable,ropa,$43.93,5.0,NULL,efectivo,true,7
+105,02-28-2023,Mouse Logitech,Electronica ,148.28,dos,cliente105gmail.com,Transferencia,Si,5
+127,05-17-2023,Camisa Polo,ropa,-35.88,tres,NA,credit card,,5
+175,2024-07-20,Balon de Futbol, DEPORTES,61.83,cuatro, cliente175@hotmail.com ,,SI,-1
+79,06-08-2023,Licuadora,HOGAR,$36.51,2,cliente79@hotmail.com,efectivo,,3
+125,"Dec 13, 2024",Mouse Logitech, Electronica,165.58,2.0,cliente125@uvg.edu.gt,Transferencia,true,5
+150,03-10-2024,Mouse Logitech,Electronica,$160.97,tres,cliente150gmail.com,Transferencia,SI,3
+140,-,Balon de Futbol, DEPORTES,$60.18,-4,cliente140hotmail.com,Transferencia,TRUE,3
+152,17/04/2023,Laptop HP 15,ELECTRONICA,166.36,uno, cliente152@uvg.edu.gt ,Tarjeta,TRUE,7
+68,08/11/2024,Balon de Futbol, DEPORTES,57.26,-1,,tarjeta,1,2
+57,"Sep 17, 2024",Cafetera,Hogar,49.95,3.0,cliente57@gmail.com,efectivo,,5
+86,"Jul 8, 2024",Cafetera,Hogar ,45.40,-3,-,TARJETA,,3
+34,"Jul 15, 2023",Balon de Futbol,deportes,Q64.99,1,cliente34hotmail.com,TARJETA,TRUE,2
+15,02-04-2024,Cafetera,Hogar ,45.28,1,NA,efectivo,No,4
+59,2024-06-14,Licuadora,hogar,43.25,-3,cliente59@uvg.edu.gt,Transferencia,si,5
+26,20/12/2023,Set de Sartenes,hogar,Q59.41,4,?,efectivo,no,4
+42,16/11/2023,Camisa Polo, Ropa,$37.49,2,NA,cash,Si,3
+47,2023-01-18,Balon de Futbol,Deportes,73.00,cinco, cliente47@uvg.edu.gt ,Transferencia,true,5
+24,25/03/2024,Laptop HP 15, Electronica,158.79,5,cliente24@gmail.com,TARJETA,TRUE,5
+69,12/06/2024,Laptop HP 15,electronica,-158.28,dos,cliente69@gmail.com,cash,0,5
+103,"Jun 5, 2024",Balon de Futbol,Deportes,69.88,-3,N/A,credit card,si,
+14,28/06/2023,Mouse Logitech,ELECTRONICA,Q161.72,cinco, cliente14@uvg.edu.gt ,efectivo,true,1
+74,04-06-2023,Chumpa Impermeable,ROPA ,$40.76,4.0,NA,Transferencia,si,4
+9,2023-05-17,Balon de Futbol, DEPORTES,$77.12,3, cliente9@hotmail.com ,TARJETA,true,3
+131,09/08/2023,Licuadora,Hogar,36.27,-5,cliente131gmail.com,EFECTIVO,false,2
+135,2023-02-20,Balon de Futbol,deportes,$64.33,5.0,cliente135gmail.com,cash,TRUE,
+123,11-03-2024,Teclado Mecanico,Electronica,$158.75,N/A,cliente123uvg.edu.gt,EFECTIVO,TRUE,3
+97,n/a,Camisa Polo,Ropa,Q23.66,dos,cliente97@uvg.edu.gt,TARJETA,,5
+36,05-15-2023,Teclado Mecanico,Electronica ,Q157.11,-3,null,Efectivo,1,3
+170,04-05-2023,Mouse Logitech,ELECTRONICA,151.68,1.0, cliente170@hotmail.com ,cash,No,7
+145,21/08/2024,Teclado Mecanico,ELECTRONICA,N/A,uno,-,TARJETA,0,4
+91,2024-12-10,Teclado Mecanico,Electronica,-148.89,1, cliente91@hotmail.com ,transferencia,true,5
+1,01/12/2024,Bicicleta Montaña,Deportes,58.49,5, cliente1@uvg.edu.gt ,tarjeta,Si,2
+50,02-10-2023,Set de Sartenes,hogar,$44.02,uno,cliente50@hotmail.com,tarjeta,TRUE,-1
+55,"May 8, 2024",Pantalon Jeans,Ropa,$37.18,cinco,cliente55@hotmail.com,credit card,No,1
+169,2023-07-18,Laptop HP 15,Electronica ,-163.05,3, cliente169@uvg.edu.gt ,TARJETA,si,7
+153,"Mar 15, 2024",Licuadora,Hogar,$48.97,-1,cliente153@hotmail.com,efectivo,false,1
+51,2023-08-21,Pantalon Jeans,ROPA ,31.73,tres,n/a,Tarjeta,si,3
+8,2024-09-05,Chumpa Impermeable,Ropa,Q41.53,-2,cliente8@uvg.edu.gt,transferencia,0,4
+102,2024-11-02,Bicicleta Montaña,deportes,57.36,NULL,cliente102uvg.edu.gt,EFECTIVO,si,-1
+111,05-04-2023,Set de Sartenes,Hogar,36.19,-5,cliente111@gmail.com,Transferencia,false,4
+159,11/10/2024,Camisa Polo,ROPA ,-41.91,-2,-,credit card,false,-1
+48,10/04/2024,Laptop HP 15,ELECTRONICA,$161.60,4.0,-,Transferencia,no,2
+104,2024-09-14,Bicicleta Montaña,deportes,Q62.72,-3,cliente104gmail.com,TARJETA,SI,
+60,2024-02-11,Chumpa Impermeable, Ropa,Q30.33,5.0, cliente60@uvg.edu.gt ,Transferencia,Si,5
+178,2023-02-14,Set de Sartenes,HOGAR,-48.86,5.0,null,Efectivo,0,7
+110,"Aug 10, 2023",Teclado Mecanico, Electronica,160.38,1.0,cliente110gmail.com,credit card,false,1
+85,"Dec 18, 2024",Bicicleta Montaña, DEPORTES,68.26,-5,cliente85@gmail.com,credit card,No,-1
+41,01-16-2023,Pantalon Jeans,ropa,36.25,uno,cliente41@gmail.com,cash,SI,2
+45,"May 21, 2024",Teclado Mecanico, Electronica,-165.64,3.0,cliente45@gmail.com,Efectivo,true,7
+11,09/08/2023,Licuadora,Hogar,36.27,-5,cliente131gmail.com,EFECTIVO,false,2
+63,05/07/2023,Licuadora,Hogar,41.91,3.0,NULL,cash,false,7
+43,22/07/2024,Pantalon Jeans,Ropa,Q34.80,1.0,cliente43@uvg.edu.gt,,Si,-1
+28,05-11-2023,Camisa Polo,ROPA ,-,5.0,cliente28@gmail.com,Efectivo,SI,4
+162,13/04/2024,Set de Sartenes,HOGAR,51.17,3,cliente162uvg.edu.gt,tarjeta,no,3
+6,12-21-2023,Cafetera,Hogar,40.73,-3,cliente6@hotmail.com,efectivo,false,5
+166,05-01-2024,Camisa Polo,ropa,Q24.90,cuatro,NULL,Transferencia,,3
+12,08-22-2023,Teclado Mecanico,Electronica ,166.81,dos,?,EFECTIVO,true,3
+77,2023-03-04,Bicicleta Montaña,deportes,79.90,null,cliente77uvg.edu.gt,transferencia,true,4
+18,2023-05-07,Licuadora,Hogar,53.70,-1,cliente18uvg.edu.gt,tarjeta,TRUE,3
+82,2024-03-01,Balon de Futbol,Deportes,-73.54,1, cliente82@hotmail.com ,EFECTIVO,TRUE,5
+116,11-25-2023,Pantalon Jeans,ROPA ,41.55,3.0,?,transferencia,true,1
+113,2023-06-17,Bicicleta Montaña,deportes,76.83,?,cliente113@hotmail.com,EFECTIVO,si,2
+25,"Sep 19, 2023",Laptop HP 15,electronica,$146.05,1.0,cliente25gmail.com,Tarjeta,1,5
+122,"May 4, 2024",Cafetera,hogar,$59.91,cuatro,cliente122gmail.com,Tarjeta,true,7
+164,"Dec 7, 2023",Laptop HP 15,electronica,Q162.39,cuatro,NULL,transferencia,true,4
+171,2023-02-22,Camisa Polo, Ropa,-29.48,4,cliente171@uvg.edu.gt,TARJETA,si,5
+134,2024-01-12,Chumpa Impermeable,ropa,$29.06,-1, cliente134@uvg.edu.gt ,credit card,no,4
+53,"Sep 25, 2024",Balon de Futbol,deportes,-62.43,4.0,cliente53@uvg.edu.gt,cash,si,4
+117,08-06-2024,Cafetera,HOGAR,55.03,-1,cliente117uvg.edu.gt,credit card,no,5
+88,12-28-2023,Bicicleta Montaña, DEPORTES,62.81,cinco, cliente88@gmail.com ,efectivo,si,4
+80,01/01/2024,Bicicleta Montaña,Deportes,Q74.67,uno,cliente80uvg.edu.gt,efectivo,1,-1
+90,12/01/2023,Pantalon Jeans, Ropa,21.74,uno, cliente90@hotmail.com ,Transferencia,1,5
+37,03/03/2023,Chumpa Impermeable, Ropa,Q37.35,-1,n/a,transferencia,Si,7
+30,09-17-2023,Cafetera,Hogar ,$36.75,5.0,cliente30@uvg.edu.gt,Efectivo,TRUE,1
+22,2024-09-27,Teclado Mecanico,Electronica ,152.48,2.0,cliente22@gmail.com,credit card,SI,3
+107,"Aug 15, 2024",Bicicleta Montaña, DEPORTES,Q68.19,dos,cliente107@hotmail.com,Transferencia,1,-1
+76,"Nov 4, 2023",Bicicleta Montaña,Deportes,-70.49,tres,cliente76@uvg.edu.gt,Transferencia,no,5
+27,13/01/2024,Teclado Mecanico,electronica,165.41,3.0,cliente27gmail.com,tarjeta,,2
+124,"Mar 7, 2023",Camisa Polo,Ropa,-29.02,-3,cliente124uvg.edu.gt,cash,si,2
+7,"Aug 21, 2024",Chumpa Impermeable,ropa,Q26.62,5.0, cliente7@uvg.edu.gt ,cash,0,4
+89,12/02/2024,Chumpa Impermeable, Ropa,-41.13,5,,TARJETA,no,7
+39,01-16-2024,Pantalon Jeans, Ropa,38.10,2,cliente39@hotmail.com,Tarjeta,,4
+129,08-01-2024,Balon de Futbol,deportes,61.12,-3,cliente129@gmail.com,TARJETA,true,
+151,12/07/2024,Licuadora,hogar,-52.01,-1,NA,cash,si,-1
+174,2023-07-11,Bicicleta Montaña, DEPORTES,$73.64,1,cliente174hotmail.com,Tarjeta,1,7
+119,2023-11-09,Balon de Futbol, DEPORTES,n/a,cinco,cliente119gmail.com,cash,,4
+101,"Dec 8, 2024",Teclado Mecanico,Electronica ,Q158.07,NA, cliente101@hotmail.com ,transferencia,1,1
+96,"Jul 19, 2023",Camisa Polo,ROPA ,Q38.65,tres,cliente96@gmail.com,credit card,TRUE,4
+115,2024-12-03,Teclado Mecanico,ELECTRONICA,Q150.04,1.0, cliente115@hotmail.com ,credit card,true,3
+57,"Sep 17, 2024",Cafetera,Hogar,49.95,3.0,cliente57@gmail.com,efectivo,,5
+148,"Apr 22, 2023",Pantalon Jeans, Ropa,32.88,4,cliente148gmail.com,Transferencia,1,-1
+177,"Jan 3, 2024",Chumpa Impermeable,ROPA ,39.03,2, cliente177@gmail.com ,Transferencia,TRUE,2
+149,"Jul 9, 2023",Camisa Polo,ROPA ,$43.85,5,null,tarjeta,,1
+143,"Aug 12, 2024",Pantalon Jeans,ropa,-25.05,3.0,cliente143@gmail.com,cash,false,2
+133,"Jan 2, 2024",Balon de Futbol, DEPORTES,77.06,3, cliente133@gmail.com ,TARJETA,no,5
