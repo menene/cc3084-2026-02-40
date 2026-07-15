@@ -1,4 +1,10 @@
 # ------------------------------------------------------------
+# Quarto (sitio generado; se reconstruye con `quarto render`)
+# ------------------------------------------------------------
+/_site/
+/.quarto/
+
+# ------------------------------------------------------------
 # Entornos virtuales (no se commitean: cada quien los regenera
 # con `python src/00_init.py` o `pip install -r requirements.txt`)
 # ------------------------------------------------------------
@@ -51,3 +57,5 @@ Thumbs.db
 # ------------------------------------------------------------
 .env
 .env.*
+
+**/*.quarto_ipynb

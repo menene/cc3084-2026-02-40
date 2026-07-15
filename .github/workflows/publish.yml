@@ -1,0 +1,30 @@
+name: Publicar sitio Quarto
+
+# Publica el sitio a GitHub Pages (rama gh-pages) en cada push a main.
+# Los cuadernos ya vienen renderizados (traen sus outputs incrustados), asi que
+# CI NO necesita Python ni ejecutar nada: solo Quarto arma el HTML.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar el repo
+        uses: actions/checkout@v4
+
+      - name: Instalar Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Renderizar y publicar en gh-pages
+        uses: quarto-dev/quarto-actions/publish@v2
+        with:
+          target: gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
