@@ -6,7 +6,7 @@ project:
     - "**/notebooks/*.ipynb"
 
 website:
-  title: "CC3084 · Ciencia de Datos"
+  title: "CC3084 · Data Science"
   description: "Laboratorios y proyectos del curso CC3084 (UVG)"
   site-url: "https://menene.github.io/cc3084-2026-02-40/"
   repo-url: "https://github.com/menene/cc3084-2026-02-40"

@@ -5,29 +5,5 @@ subtitle: "Laboratorios y proyectos del curso (UVG)"
 
 Codigo de los laboratorios y proyectos del curso de Ciencia de Datos (CC3084,
 UVG). Cada entregable vive en su propia carpeta, autocontenida y reproducible.
-Este sitio publica **todos los cuadernos** de todas las carpetas.
+Este sitio publica todos los cuadernos de todas las carpetas.
 
-## Proyectos
-
-- **01 · Limpieza de datos** — pipeline de limpieza de datos.
-- **02 · AR, MA, ARMA, ARIMA, SARIMA** — analisis, modelado, validacion y
-  pronostico de una serie de tiempo (*Air Passengers*).
-
-## Agregar un cuaderno nuevo
-
-Cualquier cuaderno colocado en `NN_nombre/notebooks/*.ipynb` se publica
-automaticamente (ver el patron `render` en `_quarto.yml`). Solo agregalo a la
-barra lateral en `_quarto.yml` si quieres una seccion nueva.
-
-## Como publicar
-
-```bash
-# vista previa local con recarga en vivo
-quarto preview
-
-# generar el sitio estatico en _site/
-quarto render
-
-# publicar en GitHub Pages
-quarto publish gh-pages
-```
