@@ -1,19 +1,31 @@
 name: Publicar sitio Quarto
 
-# Publica el sitio a GitHub Pages (rama gh-pages) en cada push a main.
-# Los cuadernos ya vienen renderizados (traen sus outputs incrustados), asi que
-# CI NO necesita Python ni ejecutar nada: solo Quarto arma el HTML.
+# Construye el sitio con Quarto y lo despliega a GitHub Pages usando el metodo
+# oficial de Actions (sin rama gh-pages). Los cuadernos ya vienen renderizados
+# (traen sus outputs incrustados), asi que CI NO necesita Python: solo Quarto
+# arma el HTML.
+#
+# IMPORTANTE: en Settings -> Pages, la fuente ("Source") debe estar en
+# "GitHub Actions".
 
 on:
   push:
     branches: [main]
   workflow_dispatch:
 
+# Permisos que exige el despliegue oficial de Pages.
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
+
+# Evita despliegues concurrentes; no cancela uno en curso.
+concurrency:
+  group: pages
+  cancel-in-progress: false
 
 jobs:
-  build-deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Clonar el repo
@@ -22,9 +34,21 @@ jobs:
       - name: Instalar Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Renderizar y publicar en gh-pages
-        uses: quarto-dev/quarto-actions/publish@v2
+      - name: Renderizar el sitio
+        run: quarto render
+
+      - name: Subir el artefacto de Pages
+        uses: actions/upload-pages-artifact@v3
         with:
-          target: gh-pages
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Desplegar en GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
