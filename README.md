@@ -30,6 +30,7 @@ propio `README.md` con instrucciones para correrla.
 .
 ├── 01_lipieza_datos/               # Pipeline de limpieza de datos (ver su README)
 ├── 02_AR_MA_ARMA_ARIMA_SARIMA/     # Series de tiempo (ver su README)
+├── 03_deep_learning/               # Deep Learning para series (LSTM) (ver su README)
 ├── _quarto.yml                     # config del sitio Quarto (publica todos los cuadernos)
 ├── index.qmd                       # portada del sitio
 └── README.md
